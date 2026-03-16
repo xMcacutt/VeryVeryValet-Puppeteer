@@ -1,0 +1,8 @@
+{
+    "name": "Puppeteer",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/xMcacutt/VeryVeryValet-Puppeteer",
+    "description": "Third person camera view for Very Very Valet",
+    "dependencies": [
+    ]
+}
